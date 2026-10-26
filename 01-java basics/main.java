@@ -11,7 +11,11 @@ public class main {
     String name =in.nextLine();
     System.out.println("Hello " + name);
 
-    
+    int i =0 ;
+    while(i<=5){
+        System.out.println("amoina");
+        i++;
+    }
     
     }
     
